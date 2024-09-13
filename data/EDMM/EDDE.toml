@@ -9,12 +9,7 @@ url = "https://chartfox.org/EDDE"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDDE"
-
-[[airport.links]]
-category = "Briefing"
-name = "Pilotbriefing"
-url = "https://vats.im/edde-briefing"
+url = "https://aip.dfs.de/BasicVFR/pages/C019BE.html"
 
 [[airport.links]]
 category = "Scenery"

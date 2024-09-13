@@ -9,12 +9,7 @@ url = "https://chartfox.org/EDMA"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDMA"
-
-[[airport.links]]
-category = "Briefing"
-name = "Pilotbriefing"
-url = "https://vats.im/edma-briefing"
+url = "https://aip.dfs.de/BasicVFR/pages/C01962.html"
 
 [[airport.links]]
 category = "Scenery"
