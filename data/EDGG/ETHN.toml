@@ -14,4 +14,4 @@ url = "https://aip.dfs.de/BasicVFR/pages/C01A6A.html"
 [[airport.links]]
 category = "Charts"
 name = "Charts (MIL)"
-url = "https://www.milais.org/publications.php"
+url = "https://www.milais.org"

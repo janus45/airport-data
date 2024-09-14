@@ -4,4 +4,4 @@ icao = "ETSB"
 [[airport.links]]
 category = "Charts"
 name = "Charts"
-url = "https://www.milais.org/publications.php"
+url = "https://www.milais.org"
