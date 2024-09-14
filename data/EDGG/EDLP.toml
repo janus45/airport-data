@@ -9,12 +9,12 @@ url = "https://chartfox.org/EDLP"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDLP"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A84.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlp-paderbornlippstadt"
+url = "https://vats.im/edlp"
 
 [[airport.links]]
 category = "Scenery"

@@ -3,13 +3,13 @@ icao = "EDFE"
 
 [[airport.links]]
 category = "Charts"
-name = "Charts (IFR)"
-url = "https://chartfox.org/EDFE"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C019C6.html"
 
 [[airport.links]]
-category = "Charts"
-name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDFE"
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/edfe"
 
 [[airport.links]]
 category = "Scenery"

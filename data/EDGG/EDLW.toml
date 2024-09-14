@@ -9,22 +9,22 @@ url = "https://chartfox.org/EDLW"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDLW"
+url = "https://aip.dfs.de/BasicVFR/pages/C019AE.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlw-dortmund"
-
-[[airport.links]]
-category = "Scenery"
-name = "MSFS Freeware by Chak991"
-url = "https://de.flightsim.to/file/47104/edlw-dortmund-regional"
+url = "https://vats.im/edlw"
 
 [[airport.links]]
 category = "Scenery"
 name = "MSFS Freeware by Bahrometrix"
 url = "https://flightsim.to/file/51183/regional-airport-dortmund-edlw"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by Chak991"
+url = "https://flightsim.to/file/47104/edlw-dortmund-regional"
 
 [[airport.links]]
 category = "Scenery"

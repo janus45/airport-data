@@ -9,12 +9,17 @@ url = "https://chartfox.org/EDLN"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDLN"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A52.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edln-monchengladbach"
+url = "https://vats.im/edln"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by SPINOZA"
+url = "https://secure.simmarket.com/spinoza-edln-moenchengladbach-msfs.phtml"
 
 [[airport.links]]
 category = "Scenery"
@@ -30,8 +35,3 @@ url = "https://flightsim.to/file/21557/edln-mnchengladbach"
 category = "Scenery"
 name = "X-Plane Freeware by CountCrash"
 url = "https://forums.x-plane.org/index.php?/files/file/86343-edln-m%C3%B6nchengladbach-for-xp-12/"
-
-[[airport.links]]
-category = "Scenery"
-name = "MSFS Payware by SPINOZA"
-url = "https://secure.simmarket.com/spinoza-edln-moenchengladbach-msfs.phtml"

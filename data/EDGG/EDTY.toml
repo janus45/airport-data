@@ -1,0 +1,17 @@
+[[airport]]
+icao = "EDTY"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDTY"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C01AB6.html"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/edty"

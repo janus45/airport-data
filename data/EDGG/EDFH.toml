@@ -9,22 +9,12 @@ url = "https://chartfox.org/EDFH"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDFH"
+url = "https://aip.dfs.de/BasicVFR/pages/C019C7.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edfh-frankfurt-hahn"
-
-[[airport.links]]
-category = "Scenery"
-name = "MSFS Freeware by pandamisha"
-url = "https://flightsim.to/file/46436/frankfurt-hahn-airport-edfh"
-
-[[airport.links]]
-category = "Scenery"
-name = "X-Plane Freeware by chrisru"
-url = "https://forums.x-plane.org/index.php?/files/file/38260-frankfurt-hahn-airport/"
+url = "https://vats.im/edfh"
 
 [[airport.links]]
 category = "Scenery"
@@ -33,5 +23,15 @@ url = "https://secure.simmarket.com/rfscenerybuilding-edfh-frankfurt-hahn-msfs.p
 
 [[airport.links]]
 category = "Scenery"
+name = "MSFS Freeware by pandamisha"
+url = "https://flightsim.to/file/46436/frankfurt-hahn-airport-edfh"
+
+[[airport.links]]
+category = "Scenery"
 name = "X-Plane Payware by Aerosoft"
 url = "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/sceneries/xp-europe/732/airport-frankfurt-hahn-xp"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by chrisru"
+url = "https://forums.x-plane.org/index.php?/files/file/38260-frankfurt-hahn-airport/"

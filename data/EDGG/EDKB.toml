@@ -4,7 +4,7 @@ icao = "EDKB"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDKB"
+url = "https://aip.dfs.de/BasicVFR/pages/C0198B.html"
 
 [[airport.links]]
 category = "Scenery"

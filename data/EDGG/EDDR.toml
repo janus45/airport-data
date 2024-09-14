@@ -9,12 +9,12 @@ url = "https://chartfox.org/EDDR"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDDR"
+url = "https://aip.dfs.de/BasicVFR/pages/C01AA7.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddr-saarbrucken"
+url = "https://vats.im/eddr"
 
 [[airport.links]]
 category = "Scenery"

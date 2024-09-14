@@ -9,12 +9,12 @@ url = "https://chartfox.org/EDFM"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDFM"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A45.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edfm-mannheim-city"
+url = "https://vats.im/edfm"
 
 [[airport.links]]
 category = "Scenery"

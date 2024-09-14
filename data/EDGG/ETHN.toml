@@ -1,0 +1,17 @@
+[[airport]]
+icao = "ETHN"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://aip.dfs.de/BasicIFR/pages/C00644.html"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A6A.html"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (MIL)"
+url = "https://www.milais.org/publications.php"

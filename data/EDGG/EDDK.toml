@@ -9,22 +9,17 @@ url = "https://chartfox.org/EDDK"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDDK"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A1F.html"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (MIL)"
+url = "https://www.milais.org/publications.php"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddk-kolnbonn"
-
-[[airport.links]]
-category = "Briefing"
-name = "vACDM Pilot Guide"
-url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-
-[[airport.links]]
-category = "Scenery"
-name = "X-Plane Freeware by FLYAGI"
-url = "https://flight-sim.org/filebase/index.php?entry/1410-eddk-cologne-bonn-xp12/"
+url = "https://vats.im/eddk"
 
 [[airport.links]]
 category = "Scenery"
@@ -35,3 +30,8 @@ url = "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-s
 category = "Scenery"
 name = "X-Plane Payware by Aerosoft"
 url = "https://www.aerosoft.com/de/shop/flight/x-plane/x-plane-11/szenerien/xp-europa/2662/airport-koeln/bonn-xp"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by FLYAGI"
+url = "https://flight-sim.org/filebase/index.php?entry/1410-eddk-cologne-bonn-xp12/"

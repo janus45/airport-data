@@ -9,17 +9,22 @@ url = "https://chartfox.org/EDDF"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDDF"
+url = "https://aip.dfs.de/BasicVFR/pages/C019C8.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddf-frankfurtmain"
+url = "https://vats.im/eddf"
 
 [[airport.links]]
 category = "Briefing"
 name = "vACDM Pilot Guide"
-url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+url = "https://vacdm.net/docs/pilot"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by Aerosoft"
+url = "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/4398/aerosoft-mega-airport-frankfurt"
 
 [[airport.links]]
 category = "Scenery"
@@ -30,11 +35,6 @@ url = "https://virtual-fra.com"
 category = "Scenery"
 name = "MSFS Freeware by Aviotek"
 url = "https://orbxdirect.com/product/aviotek-eddf-msfs"
-
-[[airport.links]]
-category = "Scenery"
-name = "MSFS Payware by Aerosoft"
-url = "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/4398/aerosoft-mega-airport-frankfurt"
 
 [[airport.links]]
 category = "Scenery"

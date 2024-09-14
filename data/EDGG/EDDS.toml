@@ -9,22 +9,17 @@ url = "https://chartfox.org/EDDS"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDDS"
+url = "https://aip.dfs.de/BasicVFR/pages/C01AD3.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edds-stuttgart"
+url = "https://vats.im/edds"
 
 [[airport.links]]
 category = "Briefing"
 name = "vACDM Pilot Guide"
-url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-
-[[airport.links]]
-category = "Scenery"
-name = "MSFS Payware by RDPresets"
-url = "https://contrail.shop/products/edds-stuttgart-international-airport-msfs"
+url = "https://vacdm.net/docs/pilot"
 
 [[airport.links]]
 category = "Scenery"
@@ -33,15 +28,20 @@ url = "https://secure.simmarket.com/justsim-edds-stuttgart-airport-msfs-(de_1464
 
 [[airport.links]]
 category = "Scenery"
+name = "MSFS Payware by RDPresets"
+url = "https://contrail.shop/products/edds-stuttgart-international-airport-msfs"
+
+[[airport.links]]
+category = "Scenery"
 name = "MSFS Payware by FeelThere"
 url = "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-msfs.phtml"
 
 [[airport.links]]
 category = "Scenery"
-name = "X-Plane Payware by FeelThere"
-url = "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-x-plane-11.phtml"
+name = "X-Plane Payware by Justsim"
+url = "https://secure.simmarket.com/justsim-stuttgart-airport-x-plane-11.phtml"
 
 [[airport.links]]
 category = "Scenery"
-name = "X-Plane Payware by Justsim"
-url = "https://secure.simmarket.com/justsim-stuttgart-airport-x-plane-11.phtml"
+name = "X-Plane Payware by FeelThere"
+url = "https://secure.simmarket.com/feelthere-edds-stuttgart-international-airport-x-plane-11.phtml"

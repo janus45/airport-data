@@ -9,12 +9,12 @@ url = "https://chartfox.org/EDLV"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDLV"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A69.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlv-niederrhein"
+url = "https://vats.im/edlv"
 
 [[airport.links]]
 category = "Scenery"

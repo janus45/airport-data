@@ -3,8 +3,13 @@ icao = "EDRY"
 
 [[airport.links]]
 category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDRY"
+
+[[airport.links]]
+category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDRY"
+url = "https://aip.dfs.de/BasicVFR/pages/C01AC7.html"
 
 [[airport.links]]
 category = "Scenery"

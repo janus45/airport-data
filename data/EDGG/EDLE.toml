@@ -3,13 +3,8 @@ icao = "EDLE"
 
 [[airport.links]]
 category = "Charts"
-name = "Charts (IFR)"
-url = "https://chartfox.org/EDLE"
-
-[[airport.links]]
-category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDLE"
+url = "https://aip.dfs.de/BasicVFR/pages/C0198B.html"
 
 [[airport.links]]
 category = "Scenery"

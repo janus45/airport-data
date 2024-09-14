@@ -9,7 +9,7 @@ url = "https://chartfox.org/EDGS"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDGS"
+url = "https://aip.dfs.de/BasicVFR/pages/C01AC1.html"
 
 [[airport.links]]
 category = "Scenery"

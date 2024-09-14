@@ -1,0 +1,12 @@
+[[airport]]
+icao = "EDFQ"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDFQ"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C01953.html"

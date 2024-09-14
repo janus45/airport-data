@@ -9,19 +9,19 @@ url = "https://chartfox.org/EDSB"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDSB"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A14.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edsb-karlsruhebaden-baden"
-
-[[airport.links]]
-category = "Scenery"
-name = "X-Plane Freeware by AeroX"
-url = "https://forums.x-plane.org/index.php?/files/file/68472-edsb-fkb-baden-airpark-v2-by-aerox-simulations-original-file-download/"
+url = "https://vats.im/edsb"
 
 [[airport.links]]
 category = "Scenery"
 name = "MSFS Payware by Aerosoft"
 url = "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3934/aerosoft-airport-karlsruhe/baden-baden"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by AeroX"
+url = "https://forums.x-plane.org/index.php?/files/file/68472-edsb-fkb-baden-airpark-v2-by-aerox-simulations-original-file-download/"

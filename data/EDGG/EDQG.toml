@@ -1,0 +1,17 @@
+[[airport]]
+icao = "EDQG"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDQG"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C019D3.html"
+
+[[airport.links]]
+category = "Briefing"
+name = "Pilotbriefing"
+url = "https://vats.im/edqg"

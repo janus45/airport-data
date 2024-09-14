@@ -9,22 +9,17 @@ url = "https://chartfox.org/EDDL"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDDL"
+url = "https://aip.dfs.de/BasicVFR/pages/C019B0.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddl-dusseldorf"
+url = "https://vats.im/eddl"
 
 [[airport.links]]
 category = "Briefing"
 name = "vACDM Pilot Guide"
-url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-
-[[airport.links]]
-category = "Scenery"
-name = "MSFS Freeware by hu277"
-url = "https://flightsim.to/file/7172/eddl-enhancement-v0-1"
+url = "https://vacdm.net/docs/pilot"
 
 [[airport.links]]
 category = "Scenery"
@@ -35,6 +30,11 @@ url = "https://secure.simmarket.com/justsim-duesseldorf-airport-msfs.phtml"
 category = "Scenery"
 name = "MSFS Payware by Simbreeze"
 url = "https://secure.simmarket.com/simbreeze-duesseldorf-de-msfs.phtml"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by hu277"
+url = "https://flightsim.to/file/7172/eddl-enhancement-v0-1"
 
 [[airport.links]]
 category = "Scenery"

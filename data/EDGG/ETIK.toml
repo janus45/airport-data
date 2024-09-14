@@ -1,0 +1,7 @@
+[[airport]]
+icao = "ETIK"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts"
+url = "https://www.milais.org/publications.php"

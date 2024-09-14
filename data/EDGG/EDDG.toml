@@ -9,12 +9,17 @@ url = "https://chartfox.org/EDDG"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDDG"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A59.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddg-munsterosnabruck"
+url = "https://vats.im/edgg"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Payware by MM"
+url = "https://secure.simmarket.com/mm-simulations-eddg-munster-osnabruck-airport-msfs.phtml"
 
 [[airport.links]]
 category = "Scenery"
@@ -25,8 +30,3 @@ url = "https://flightsim.to/file/13613/munster-osnabruck-international-airport"
 category = "Scenery"
 name = "X-Plane Freeware by AeroX"
 url = "https://forums.x-plane.org/index.php?/files/file/69405-eddg-fmo-m%C3%BCnster-osnabr%C3%BCck/"
-
-[[airport.links]]
-category = "Scenery"
-name = "MSFS Payware by MM"
-url = "https://secure.simmarket.com/mm-simulations-eddg-munster-osnabruck-airport-msfs.phtml"
