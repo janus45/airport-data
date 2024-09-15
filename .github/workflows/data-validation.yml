@@ -1,22 +1,16 @@
 name: datavalidator
 
 on:
-  workflow_dispatch:
   pull_request:
     branches:
       - main
-  schedule:
-    - cron: "0 0 * * 0"
-
 jobs:
   run-workflow-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main branch
+      - name: Checkout PR branch
         uses: actions/checkout@v2
-        with:
-          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v2
