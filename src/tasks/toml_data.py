@@ -3,7 +3,6 @@ import os
 import sys
 import tomllib
 import requests
-from typing import List
 
 from views.airport import Airport, AirportData
 
@@ -14,6 +13,7 @@ class TomlData:
         self.output_dir = output_dir
         self.data = AirportData(airports=[])
 
+        self.checked_urls = {}
         self.errors = []
 
         self.load_toml_data()
@@ -49,13 +49,25 @@ class TomlData:
             self.errors.append(f"Failed to process {file_path}: {e}")
 
     def validate_url(self, url: str):
+        if url in self.checked_urls:
+            print(
+                f"URL {url} has already been checked. Valid: {self.checked_urls[url]}"
+            )
+            return self.checked_urls[url]
+
         try:
             response = requests.head(url, allow_redirects=True, timeout=2)
             print(f"Checked {url}, status code: {response.status_code}")
-            return response.status_code != 404
+
+            is_valid = response.status_code != 404
+
+            self.checked_urls[url] = is_valid
+
+            return is_valid
+
         except requests.exceptions.RequestException as e:
-            # If there was an issue with the request, return False
             print(f"Error checking {url}: {e}")
+            self.checked_urls[url] = False
             return False
 
     def validate_data(self):
