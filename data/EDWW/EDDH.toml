@@ -17,11 +17,6 @@ name = "Pilotbriefing"
 url = "https://knowledgebase.vatsim-germany.org/books/airports-bremen-fir-edww/chapter/eddh-hamburg-airport"
 
 [[airport.links]]
-category = "Briefing"
-name = "vACDM Pilot Guide"
-url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-
-[[airport.links]]
 category = "Scenery"
 name = "MSFS Freeware by Chak991"
 url = "https://flightsim.to/file/46797/eddh-hamburg-airport"
