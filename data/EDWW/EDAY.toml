@@ -9,9 +9,5 @@ url = "https://chartfox.org/EDAY"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDAY"
+url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/a507db90c294a8cb0951e9886d9852f8.html"
 
-[[airport.links]]
-category = "Briefing"
-name = "Pilotbriefing"
-url = "https://vats.im/eday-briefing"

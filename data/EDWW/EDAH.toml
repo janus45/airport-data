@@ -9,12 +9,7 @@ url = "https://chartfox.org/EDAH"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDAH"
-
-[[airport.links]]
-category = "Briefing"
-name = "Pilotbriefing"
-url = "https://vats.im/edah-briefing"
+url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/d6ec7a74cbacb7eb43dec4f69a26c711.html"
 
 [[airport.links]]
 category = "Scenery"

@@ -9,9 +9,6 @@ url = "https://chartfox.org/ETMN"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?ETMN"
+url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/6b5e6159106c29aba461c213ab0b8ae6.html"
 
-[[airport.links]]
-category = "Briefing"
-name = "Pilotbriefing"
-url = "https://vats.im/etmn-briefing"
+
