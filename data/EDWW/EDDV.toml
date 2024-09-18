@@ -17,11 +17,6 @@ name = "Pilotbriefing"
 url = "https://knowledgebase.vatsim-germany.org/books/airports-bremen-fir-edww/chapter/eddv-hannover"
 
 [[airport.links]]
-category = "Briefing"
-name = "vACDM Pilot Guide"
-url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-
-[[airport.links]]
 category = "Scenery"
 name = "MSFS Freeware by Friedolien"
 url = "https://flightsim.to/file/68217/crossfeed-eddv-hannover-airport-alpha"
