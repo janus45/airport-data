@@ -9,7 +9,7 @@ url = "https://chartfox.org/ETNL"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?ETNL"
+url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/9c18cbbc46e4e6a53894c564257cf75a.html"
 
 [[airport.links]]
 category = "Briefing"
