@@ -17,11 +17,6 @@ name = "Pilotbriefing"
 url = "https://knowledgebase.vatsim-germany.org/books/airports-bremen-fir-edww/chapter/eddb-berlinbrandenburg"
 
 [[airport.links]]
-category = "Briefing"
-name = "vACDM Pilot Guide"
-url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-
-[[airport.links]]
 category = "Scenery"
 name = "MSFS Payware by Aerosoft"
 url = "https://www.aerosoft.com/de/shop/flight/microsoft-flight-simulator/msfs-szenerien/msfs-europa/3252/aerosoft-mega-airport-berlin-brandenburg-v2"
