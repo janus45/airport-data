@@ -9,7 +9,7 @@ url = "https://chartfox.org/EDDV"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/25ca701b853f06a5d1bba393f5a3c32f.html"
+url = "https://aip.dfs.de/BasicVFR/pages/C019EF.html"
 
 [[airport.links]]
 category = "Briefing"

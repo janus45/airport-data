@@ -4,4 +4,4 @@ icao = "EDOI"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/5b9f42345e6ce5f696bc85bda0d53879.html"
+url = "https://aip.dfs.de/BasicVFR/pages/C01982.html"
