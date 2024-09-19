@@ -9,17 +9,12 @@ url = "https://chartfox.org/EDDH"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDDH"
+url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/ae4726f1fa20f6a645af025f806bb1c7.html"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
 url = "https://knowledgebase.vatsim-germany.org/books/airports-bremen-fir-edww/chapter/eddh-hamburg-airport"
-
-[[airport.links]]
-category = "Briefing"
-name = "vACDM Pilot Guide"
-url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
 
 [[airport.links]]
 category = "Scenery"

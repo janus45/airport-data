@@ -9,9 +9,4 @@ url = "https://chartfox.org/EDHL"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDHL"
-
-[[airport.links]]
-category = "Briefing"
-name = "Pilotbriefing"
-url = "https://vats.im/edhl-briefing"
+url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/272a2b2ef9e99898746e951012e47c16.html"

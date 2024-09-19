@@ -9,12 +9,7 @@ url = "https://chartfox.org/EDVK"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDVK"
-
-[[airport.links]]
-category = "Briefing"
-name = "Pilotbriefing"
-url = "https://vats.im/edvk-briefing"
+url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/0cda638c31dc64f56aeaf0229b6c2dc2.html"
 
 [[airport.links]]
 category = "Scenery"

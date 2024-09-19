@@ -9,7 +9,7 @@ url = "https://chartfox.org/EDHK"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDHK"
+url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/9483613ec9a919c73f55a7485162fd0d.html"
 
 [[airport.links]]
 category = "Scenery"

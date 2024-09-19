@@ -4,7 +4,7 @@ icao = "EDWG"
 [[airport.links]]
 category = "Charts"
 name = "Charts (VFR)"
-url = "https://www.vfraip.de/?EDWG"
+url = "https://aip.dfs.de/BasicVFR/2024AUG22/chapter/67c4edf4474254d3226d9a0f6cef8137.html"
 
 [[airport.links]]
 category = "Scenery"
